@@ -1,10 +1,9 @@
 ## Hi there 👋
 
 - I am a final year PhD student working on data analysis problems for the LISA gravitational wave detector, at the University of Birmingham.
-- I have mostly worked on the search for the quiet, long lived stellar origin binary black holes. 
+- I have mostly worked on the search for the quiet, long lived stellar origin binary black holes:
 
-
-
+https://github.com/user-attachments/assets/12b2da8c-53eb-4a4d-9ea6-5251fc9bc6e7
 
 <!--
 **dig07/dig07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
