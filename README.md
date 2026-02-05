@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- I am a postdoctoral researcher working on analysis problems for the LISA gravitational wave detector, at the The Max Planck Institute for Gravitational Physics.
+- I am a postdoctoral researcher working on analysis problems for the LISA gravitational wave detector, at The Max Planck Institute for Gravitational Physics.
 
 https://github.com/user-attachments/assets/12b2da8c-53eb-4a4d-9ea6-5251fc9bc6e7
 
